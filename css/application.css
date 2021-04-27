@@ -7,3 +7,12 @@ input {
 input[type=text]:focus {
     background-color: lightblue;
 }
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+body{
+    background-color: maroon;
+}
