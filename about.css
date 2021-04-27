@@ -6,8 +6,7 @@
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    margin-right: 30px;
-    float: right;
+    float: left;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -27,11 +26,11 @@
     color: white;
 }
 
-/* #landing {
+#landing {
     background-image: url(./image/landing.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    padding: 20% */
+    padding: 20%
 }
 
 h2 {
@@ -39,11 +38,11 @@ h2 {
     text-align: center;
     font-size: 50px;
 }
-/* 
+
 em {
     color: rgb(165, 0, 165);
     font-size: 30px;
-} */
+}
 
 .container {
     font-size: 20px;
