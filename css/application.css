@@ -14,7 +14,7 @@ h3{
     color: white;
 }
 body{
-    background-color: rgb(185, 183, 183);
+    background-color: rgb(184, 102, 102);
 }
 textarea {
     width: 100%;
@@ -31,4 +31,14 @@ textarea {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     color: white;
+  }
+  input[type=submit] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 20%;
   }
