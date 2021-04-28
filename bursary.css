@@ -2,6 +2,7 @@
 .topnav {
     background-color: #333;
     overflow: hidden;
+     
 }
 
 /* Style the links inside the navigation bar */
@@ -65,6 +66,12 @@ h1{
     box-shadow: 1vh 1vh 1vh .5vh lightgreen;
     background-color: grey;
 }
+
 h2{
     font-weight: bold;
+}
+
+.intro{
+    text-align: center;
+    font-size:40px;
 }
