@@ -5,7 +5,7 @@
  The is a website to help students from sub-counties apply for bursaries and schorlarships online. The main main of the project is 
 
 ##  Authors
- Melby OkoZi[https://github.com/josphat-otieno/bursary-application.git]
+ Melby Okozi[https://github.com/josphat-otieno/bursary-application.git]
 
  Natasha Serem[https://github.com/josphat-otieno/bursary-application.git]
 
