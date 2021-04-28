@@ -1,5 +1,5 @@
 .container{
-    background-color: maroon;
+    background-color:black;
     color: white;
     font-size: 25px;
     border-top: 6px double bisque;
@@ -34,7 +34,7 @@ h1{
     font-size: 50px;
     color: wheat;
     border: 2px;
-    box-shadow: 1vh 1vh 1vh .5vh orange;
+    box-shadow: 1vh 1vh 1vh .5vh lightgreen;
     background-color: black;
 }
 h2{
