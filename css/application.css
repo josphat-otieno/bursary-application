@@ -3,7 +3,6 @@ input {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
-    float: right;
     display: block;
 }
 input[type=text]:focus {
@@ -71,7 +70,7 @@ textarea {
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
-    width: 20%;
+    width: 30%;
   }
 form{
   display: flex;
