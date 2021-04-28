@@ -37,7 +37,7 @@ h1 {
 #part,
 h1 {
     text-align: center;
-    background-color: mintcream;
+    background-color: #ffff;
 }
 
 
@@ -62,7 +62,7 @@ h1 {
 
 /* Add a black background color to the top navigation */
 .topnavf {
-    background-color: #333;
+    background-color: #a4ebf3;
     overflow: hidden;
 }
 
@@ -70,7 +70,7 @@ h1 {
 .topnavf a {
     margin-left: 5cm;
     float: left;
-    color: #f2f2f2;
+    color: black;
     text-align: center;
     padding: 14px;
     text-decoration: none;
