@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Online Bursary</title>
+        <link href="css/application.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Sub-County Bursary Online Application</h1>
+            <div class="topnav">
+                <a href="#Contact">Contact Us</a>
+                <a href="gallery.html">Gallery</a>
+                <a href="application.html">Application Form</a>
+                <a href="bursary.html">Bursaries</a>
+                <a href="about">About Us</a>
+                <a href="index.html">Home</a>
+            </div>
+        </div>
+        <div id="application-form">
+            <div class="row">
+                <div class="col-lg-6">
+                    <form id="application-form">
+                        <h2>Personal Details</h2>
+                        <label for="fname">First Name</label>
+                        <input type="text" id="fname" placeholder="Enter your first name">
+                        <label for="mname">Middle Name</label>
+                        <input type="text" id="mname" placeholder="Enter your middle name">
+                        <label for="lname">Last Name</label>
+                        <input type="text" id="lname"placeholder="Enter your last name">
+                        <br><br>
+                        <label for="birthday">Birthday</label>
+                        <input type="date" id="birthday" name="birthday">
+                        <h2>Gender</h2>
+                        <label for="female">Female</label>
+                        <input type="radio" id="female" name="gender" value="female">
+                        <label for="male">Male</label>
+                        <input type="radio" id="male" name="gender" value="male">
+                        <h2>Location</h2>
+                        <label for="county">County</label>
+                        <input type="text" id="county" placeholder="Enter county of origin">
+                        <label for="country">Country</label>
+                        <input type="text" id="country" placeholder="Enter country of origin">
+                        <h2>Educational Background</h2>
+                        <label for="highschool">Highschool Attended</label>
+                        <input type="text" id="high" placeholder="Enter the highschool you attended last">
+                        <br><br>
+                        <label for="datemax">Enter date before 1990-01-01:</label>
+                        <input type="date" id="datemax" name="datemax" max="1989-12-31">
+                        <br><br>
+                        <label for="datemin">Enter date after 2000-01-01:</label>
+                        <input type="date" id="datemin" name="datemin" min="2000-01-02">
+                        <br><br>
+                        <label for="grade">Grade Attained</label>
+                        <input type="text" id="grade" placeholder="Enter the grade attained">
+                        <br><br>
+                        <label for="university">University</label>
+                        <input type="text" id="university" placeholder="Enter the univeristy attended">
+                        <br><br>
+                        <input type="text" id="univeristy" placeholder="Enter the university attended">
+                        <br><br>
+                        <input type="text" id="univeristy" placeholder="Enter the univeristy attended">
+                        <br><br>
+                        <h2>Type of Bursary</h2>
+                        <input type="checkbox" id="bursary1" name="bursary1" value="Fully-paid">
+                        <label for="bursary1">Fully-paid</label>
+                        <input type="checkbox" id="bursary2" name="bursary2" value="Partially-paid">
+                        <label for="bursary2">Partially-paid</label>
+                        <br><br>
+                        <label for="reasons"><h2>Reasons for Applying</h2></label>
+                        <br><br>
+                        <textarea type="text" name="MESSAGE" rows="10" cols="30" placeholder="Enter your message here"></textarea>
+                        <br><br>
+                        <label for="submit">Submit</label>
+                        <input type="submit" id="submit" value="Submit">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
