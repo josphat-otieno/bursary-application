@@ -149,4 +149,8 @@
   background-color: #4CAF50;
   color: white;
 }
+.card-footer{
+  font-size: larger;
+  font-weight: bolder;
+}
   
