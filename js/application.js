@@ -1,4 +1,4 @@
-function haveSubmissions() {
+function haveSubmission() {
     let firstName= document.getElementById("fname").value;
     let middleName = document.getElementById("mname").value;
     let lastName = document.getElementById("lname").value;
