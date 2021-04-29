@@ -8,10 +8,7 @@ input {
 input[type=text]:focus {
     background-color: lightblue;
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> master
+
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -39,9 +36,7 @@ input[type=text]:focus {
     background-color: #4CAF50;
     color: white;
 }
-<<<<<<< HEAD
-=======
-=======
+
 h3{
     text-align: center;
     font-weight: bold;
@@ -82,5 +77,3 @@ form{
   flex-direction: column;
   align-items: flex-end;
 }
->>>>>>> e2042d56498540044096dd7f68333eddaf6798c8
->>>>>>> master
