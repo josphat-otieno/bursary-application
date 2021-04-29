@@ -77,3 +77,46 @@ h1 {
     text-align: center;
     text-shadow: #4CAF50;
 }
+.row{
+    align-items: center;
+    text-align: center;
+}
+.social{
+    text-align: center;
+    justify-content: space-between;
+}
+/* Add a black background color to the top navigation */
+.topnavf {
+    background-color: #a4ebf3;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnavf a {
+    margin-left: 10cm;
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+/* Change the color of links on hover */
+.topnavf a:hover {
+    background-color: #ddd;
+    color: rgb(151, 137, 137);
+}
+
+/* Add a color to the active/current link */
+.topnavf a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+#phone{
+    font-family: monospace;
+    font-size: 25px;
+}
+#reach{
+    font-size: 25px;
+}
